@@ -2,3 +2,10 @@ body{
     background-color: black;
     margin: 30px;
 }
+.cuerpo{
+    color: #0D6EFD;
+}
+img{
+    width: 100%;
+    height: auto;
+}
