@@ -6,6 +6,23 @@ body{
     color: #0D6EFD;
 }
 img{
+    width: 100px;
+    height: auto;
+}
+.navbar{
+    background-color: rgb(43, 159, 226) !important;
+
+}
+h1{
+    color: black;
+}
+.navbar-brand{
+    display: flex;
+}
+.white{
+    color: white;
+}
+.rounded-start{
     width: 100%;
     height: auto;
 }
